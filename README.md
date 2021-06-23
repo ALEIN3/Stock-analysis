@@ -1,3 +1,4 @@
 # Stock-analysis
 Using VBA to analyze stocks' data
-![](Stock-analysis/2017 original.png)
+
+![](C:\Users\georg\OneDrive\Desktop\G\Bootcamp\Module 2\Challenge)
