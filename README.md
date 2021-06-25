@@ -38,7 +38,7 @@ The original script was created to provide an analysis for a list of 12 clean en
 ### Explaining the difference between the original code Vs. refactored code
 
  We can find that for the data of 2017 it took the refactored code to run 18.5% of the time that was consumed to run by the original code, and for 2018 it took the refactored code to run 15.2% of the time that was consumed to run by the original code.
-There is more than one adjustment that has been made to the original code. Still, the main and the most effective one that helped us to achieve those results is adjusting the nested loop function from the original code, this nested loop helps in calculating the starting price and the closing price for each ticker so that we can calculate the return, the nested loop that used a will go over the rows many times, where is the scenario is different for the refactored code where it has to go over the rows one time to get the same results that we get from the original code.
+There is more than one adjustment that has been made to the original code. Still, the main and the most effective one that helped us to achieve those results is adjusting the nested loop function from the original code, this nested loop helps in calculating the starting price and the closing price for each ticker so that we can calculate the return, the nested loop that used in the original code will go over all the rows in the sheet many times, where is the scenario is different for the refactored code, where the code has to go over the rows one time to get the same results that we got from the original code.
 
 #### The Original code(nested loop)
 
