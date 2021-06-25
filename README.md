@@ -18,21 +18,21 @@ The original script was created to provide an analysis for a list of 12 clean en
 ### The outcomes of the original Vs. refactored  
 #### 2017 
 
- Original: the time to run the code was 0.9296875 seconds
+ ##### Original: the time to run the code was 0.9296875 seconds
  
  ![](https://github.com/ALEIN3/Stock-analysis/blob/main/resources/2017_original.png)
  
- Refactored: the time to run the code was 0.171875 seconds
+ ##### Refactored: the time to run the code was 0.171875 seconds
  
  ![](https://github.com/ALEIN3/Stock-analysis/blob/main/resources/2017%20refactored.png)
  
 #### 2018 
 
- Original: the time to run the code was 0.7695313 seconds
+ ##### Original: the time to run the code was 0.7695313 seconds
  
  ![](https://github.com/ALEIN3/Stock-analysis/blob/main/resources/2018%20original.png)
  
- Refactored: the time to run the code was 0.1171875 seconds
+ ##### Refactored: the time to run the code was 0.1171875 seconds
  ![](https://github.com/ALEIN3/Stock-analysis/blob/main/resources/2018%20refactored.png)
  
 ### Explaining the difference between the original code Vs. refactored code
