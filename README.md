@@ -5,17 +5,17 @@ Using VBA to analyze stocks' data
 
 # Overview of Project
 
-## the Purpose of our project (the refactoring)
+## The Purpose of our project (the refactoring)
 The goal for this project is to provide a more efficient script than the original script, more efficient could mean faster processing time or more understandable steps.
 
-## the Purpose of the report we are creating
+## The Purpose of the report we are creating
 
 The original script was created to provide an analysis for a list of 12 clean energy stocks to find the best performing stocks for the years 2017 and 2018. The performance will be defined by using two factors, the Total daily volume, and the Return.
 
 # Results
 
 ## Analysis
-### the outcomes of the original Vs. refactored  
+### The outcomes of the original Vs. refactored  
 #### 2017 
 
  Original: the time to run the code was 0.9296875 seconds
@@ -56,12 +56,12 @@ There is more than one adjustment that has been made to the original code. Still
 3.	Refactoring Helps Finding Bugs
 4.	Refactoring Helps Programming Faster
 
-### disadvantages
+### Disadvantages
 
 1.	Run out of money
 2.	Run out of time
 
- For our project :
+For our project :
 ### Advantages:
 For both years 2017 and 2018, when we used the refactored code, we saved more than 80% of the time needed to run the original code, and the code is better to understand. 
 ### The disadvantages:
