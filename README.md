@@ -1,7 +1,5 @@
 # Stock-analysis
-Using VBA to analyze stocks' data
-
-
+[Click here to view the Excel file](https://github.com/ALEIN3/Stock-analysis/blob/main/VBA_Challenge.xlsm)
 
 # Overview of Project
 
