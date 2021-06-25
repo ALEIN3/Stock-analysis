@@ -49,7 +49,7 @@ There is more than one adjustment that has been made to the original code. Still
 ![](https://github.com/ALEIN3/Stock-analysis/blob/main/resources/Refactored%20code.png)
 
 # Results
- As a summary, nowadays in the business world, the people who in charge of every project try to reach the best results in the shortest time, the most cost-efficient way, and since technology is the heart of our development, we are using more and more codes to automate tasks, so we apply more refactoring as well, and for the refactoring, we can find the advantages and disadvantages as follows:
+ As a summary, nowadays in the business world, almost every project, the people in charge try to reach the best results, consume the shortest time possible, and use the most cost-efficient way. And since technology is the heart of our development, we are using more and more codes to automate tasks, so we apply more refactoring as well, and for the refactoring, we can find the advantages and disadvantages as follows:
 ### Advantages 
 1.	Refactoring Improves the Design of Software
 2.	Refactoring Makes Software Easier to Understand
