@@ -20,15 +20,21 @@ The original script was created to provide an analysis for a list of 12 clean en
 
  Original: the time to run the code was 0.9296875 seconds
  
- ![]()
+ ![](https://github.com/ALEIN3/Stock-analysis/blob/main/resources/2017_original.png)
  
  Refactored: the time to run the code was 0.171875 seconds
+ 
+ ![]()
  
 #### 2018 
 
  Original: the time to run the code was 0.7695313 seconds
  
+ ![]()
+ 
  Refactored: the time to run the code was 0.1171875 seconds
+ 
+ ![]()
  
 ### Explaining the difference between the original code Vs. refactored code
 
