@@ -1,4 +1,4 @@
-# Stock-analysis
+# Stock-analysis-VBA Challenge
 Click here to view the Excel file: [VBA_Challenge](https://github.com/ALEIN3/Stock-analysis/blob/main/VBA_Challenge.xlsm)
 
 # Overview of Project
